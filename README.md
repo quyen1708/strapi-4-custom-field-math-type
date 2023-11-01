@@ -23,3 +23,6 @@
 8: Field "Rich text" now will be custom CKEditor with math type and chem type.
 
 ![img_3.png](img_3.png)
+
+
+![img_4.png](img_4.png)
